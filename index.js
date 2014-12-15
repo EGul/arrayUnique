@@ -17,3 +17,5 @@ function arrayUnique(fromArray) {
 
   return toArray;
 }
+
+module.exports = arrayUnique;
